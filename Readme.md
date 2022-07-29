@@ -11,7 +11,8 @@ Table of contents
         * [Configure VS Code for Clang](/configure_clang)
         * [Configure VS Code for all Compilers](/configure_all_compilers)
    * [First Steps](/first_steps)
-   * [Variables and Data Types](/variables_datatypes)     
+   * [Variables and Data Types](/variables_datatypes)
+   * [Operations on Data](/operations)    
 <!--te-->
 
 Setup Environment
