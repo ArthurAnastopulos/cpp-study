@@ -10,7 +10,8 @@ Table of contents
         * [Configure VS Code for GCC](/configure_gcc)
         * [Configure VS Code for Clang](/configure_clang)
         * [Configure VS Code for all Compilers](/configure_all_compilers)
-   * [First Steps](/first_steps)    
+   * [First Steps](/first_steps)
+   * [Variables and Data Types](/variables_datatypes)     
 <!--te-->
 
 Setup Environment
