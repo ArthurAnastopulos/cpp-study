@@ -12,7 +12,8 @@ Table of contents
         * [Configure VS Code for all Compilers](/configure_all_compilers)
    * [First Steps](/first_steps)
    * [Variables and Data Types](/variables_datatypes)
-   * [Operations on Data](/operations)    
+   * [Operations on Data](/operations)
+   * [Literals and Constants](/literals_constants) 
 <!--te-->
 
 Setup Environment
