@@ -14,7 +14,8 @@ Table of contents
    * [Variables and Data Types](/variables_datatypes)
    * [Operations on Data](/operations)
    * [Literals and Constants](/literals_constants)
-   * [Data Conversions: Overflow & Underflow](/data_conversions) 
+   * [Data Conversions: Overflow & Underflow](/data_conversions)
+   * [Bitwise Operators](/bitwise_operators) 
 <!--te-->
 
 Setup Environment
